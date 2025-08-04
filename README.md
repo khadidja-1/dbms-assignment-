@@ -1,3 +1,6 @@
+Khadidja Adam Abakar Kayaye 
+28041
+
 postgres-# \dt employee;
           List of relations
  Schema |   Name   | Type  |  Owner
